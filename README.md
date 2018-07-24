@@ -21,6 +21,7 @@ https://<s3 bucket>.s3.amazonaws.com/index.html
 ![Time series data](shared/data.png "Time series data")
 
 ![Time series data](shared/data2.png "Time series data")
+
 (Time series data for temperature and humidity readings plus images captured from the camera module)
 
 
