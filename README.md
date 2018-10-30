@@ -1,6 +1,6 @@
 # RaspberryPi Automator - Web Components
 
-This is a companion project to rpi_automator.  Using Terraform, it sets up a DynamoDB table, S3 bucket, IAM user with limited write permissions, Cognito user pool for web access, and web time series viewer.
+This is a companion project to [rpi_automator](https://github.com/raviles/rpi_automator).  Using Terraform, it sets up a DynamoDB table, S3 bucket, IAM user with limited write permissions, Cognito user pool for web access, and web time series viewer.
 
 # Usage
 Using CircleCI
